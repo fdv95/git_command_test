@@ -4,4 +4,5 @@ public class Class4 {
     int id;
     String name;
     String lastname; // new field
+    int age; // commit2
 }
