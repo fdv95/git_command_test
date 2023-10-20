@@ -5,3 +5,4 @@ public class Class5 {
   String name; // change2 from repository (test merge)
 }
 // 123
+// 456
