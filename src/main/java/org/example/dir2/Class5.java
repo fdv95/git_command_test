@@ -6,3 +6,9 @@ public class Class5 {
 }
 // 123
 // 456
+//789
+// master change2
+// master change3
+// my_branch change1
+// my_branch2 change1
+// asd
