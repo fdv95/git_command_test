@@ -19,3 +19,5 @@ public class Class5 {
 //  test pull edit request master0.1
 
 //  test pull edit request my_branch4 0.1
+//  test pull edit request my_branch4 0.2
+//  test pull edit request master0.2
