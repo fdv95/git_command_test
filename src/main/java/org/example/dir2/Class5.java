@@ -12,6 +12,7 @@ public class Class5 {
 // my_branch change1
 // my_branch2 change1
 // asd
+// local2
 
 // 1
 //my_branch3
