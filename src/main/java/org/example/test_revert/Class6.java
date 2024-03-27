@@ -7,4 +7,5 @@ public class Class6 {
     String d;
     String e;
     String f;
+    String g;
 }
