@@ -8,4 +8,5 @@ public class Class6 {
     String e;
     String f;
     String h;
+    String g;
 }
